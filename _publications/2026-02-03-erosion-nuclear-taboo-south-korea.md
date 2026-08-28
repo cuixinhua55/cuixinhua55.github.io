@@ -1,6 +1,7 @@
 ---
 title: "The Erosion of Nuclear Taboo in South Korea"
 collection: publications
+category: working_papers
 permalink: /publication/erosion-nuclear-taboo-south-korea
 excerpt: "Working paper on the erosion of South Korea's nuclear taboo."
 ---
