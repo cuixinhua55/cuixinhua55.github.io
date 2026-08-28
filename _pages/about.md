@@ -4,13 +4,14 @@ title: "Xinhua Cui"
 author_profile: true
 ---
 
-I am a PhD student specializing in international security and nuclear strategy.
+I am a PhD candidate specializing in international security and nuclear strategy.
 
 My research focuses on:
-- Nuclear deterrence and signaling
-- Chinese nuclear doctrine
+- Theories of nuclear deterrence and signaling
+- The evolution of China's nuclear doctrine
+- Managing Northeast Asia's Nuclear Domino
 - Strategic stability and arms control
 
-I employ a mixed-methods approach, combining computational text analysis with qualitative research.
+I employ a mixed-methods approach, combining Python-based computational text analysis with close qualitative reading of original primary sources in Chinese and Korean, drawing on an extensive review of materials from China, North Korea, and South Korea.
 
 You can find my CV, publications, and research projects through the menu above.
