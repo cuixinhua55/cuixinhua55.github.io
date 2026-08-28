@@ -4,7 +4,7 @@ title: "Xinhua Cui"
 author_profile: true
 ---
 
-I am a PhD candidate specializing in international security and nuclear strategy.
+I am a PhD candidate specializing in international security, with a focus on China's foreign and defense policy and the dynamics of nuclear deterrence in East Asia.
 
 My research focuses on:
 - Theories of nuclear deterrence and signaling
