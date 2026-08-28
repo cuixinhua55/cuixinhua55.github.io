@@ -8,7 +8,7 @@ I am a PhD candidate specializing in international security and nuclear strategy
 
 My research focuses on:
 - Theories of nuclear deterrence and signaling
-- The evolution of China's nuclear doctrine
+- The Evolution of China's Diplomatic Policy and Military Strategy
 - Managing Northeast Asia's Nuclear Domino
 - Strategic stability and arms control
 
