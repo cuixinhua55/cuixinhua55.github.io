@@ -1,6 +1,7 @@
 ---
 title: "Stable Doctrine, Shifting Meaning: Rethinking Continuity in China's Nuclear Strategy"
 collection: publications
+category: working_papers
 permalink: /publication/stable-doctrine-shifting-meaning
 excerpt: 'Working paper analyzing declaratory continuity and operational change across Chinese defense white papers.'
 ---
