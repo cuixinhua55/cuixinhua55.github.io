@@ -1,6 +1,7 @@
 ---
 title: "Speaking of the Bomb: Strategic Narratives in the People's Daily, 1946–2023"
 collection: publications
+category: working_papers
 permalink: /publication/speaking-of-the-bomb
 excerpt: "Working paper tracing China's strategic nuclear narrative in People's Daily coverage, 1946-2023."
 ---
