@@ -41,7 +41,13 @@ author:
 
 
 # Publication Category - The following the list of publication categories and their headings
-
+publication_category:
+  publication:
+    title: 'Publications'
+  working_papers:
+    title: 'Working Papers'
+  works_in_progress:
+    title: 'Works in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
