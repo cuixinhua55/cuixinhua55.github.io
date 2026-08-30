@@ -21,4 +21,3 @@ Teaching assistant for Prof. Beom-Shik Shin
 
 **<span style="color: #2f7c94;"><i>History of East Asian International Relations</i></span>** — Fall 2023
 
-Teaching assistant for Prof. Changjoon Ok
